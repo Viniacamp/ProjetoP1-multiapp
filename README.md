@@ -1,6 +1,7 @@
 # ProjetoP1-multiapp
 
-Feito por: Vinicius Soares de Almeida
+Nome: Vinicius Soares de Almeida
+
 RA: 2171392411026
 
 O projeto consiste em um compilado de mini-apps reunidos em um aplicativo só, demonstrando vários dos conceitos aprendidos durante as aulas:
